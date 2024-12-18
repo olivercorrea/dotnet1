@@ -1,0 +1,5 @@
+/home/jomaol/Documents/dotnet/MyConsoleApp/publish/MyConsoleApp
+/home/jomaol/Documents/dotnet/MyConsoleApp/publish/MyConsoleApp.dll
+/home/jomaol/Documents/dotnet/MyConsoleApp/publish/MyConsoleApp.deps.json
+/home/jomaol/Documents/dotnet/MyConsoleApp/publish/MyConsoleApp.runtimeconfig.json
+/home/jomaol/Documents/dotnet/MyConsoleApp/publish/MyConsoleApp.pdb

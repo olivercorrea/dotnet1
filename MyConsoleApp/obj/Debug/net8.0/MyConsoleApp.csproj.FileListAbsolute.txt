@@ -1,0 +1,14 @@
+/home/jomaol/Documents/dotnet/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp
+/home/jomaol/Documents/dotnet/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.deps.json
+/home/jomaol/Documents/dotnet/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.runtimeconfig.json
+/home/jomaol/Documents/dotnet/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.dll
+/home/jomaol/Documents/dotnet/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.pdb
+/home/jomaol/Documents/dotnet/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/jomaol/Documents/dotnet/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfoInputs.cache
+/home/jomaol/Documents/dotnet/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfo.cs
+/home/jomaol/Documents/dotnet/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/home/jomaol/Documents/dotnet/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.dll
+/home/jomaol/Documents/dotnet/MyConsoleApp/obj/Debug/net8.0/refint/MyConsoleApp.dll
+/home/jomaol/Documents/dotnet/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.pdb
+/home/jomaol/Documents/dotnet/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.genruntimeconfig.cache
+/home/jomaol/Documents/dotnet/MyConsoleApp/obj/Debug/net8.0/ref/MyConsoleApp.dll

@@ -1,0 +1,14 @@
+/home/jomaol/Documents/dotnet/IntroCsharpBackend/bin/Debug/net8.0/IntroCsharpBackend
+/home/jomaol/Documents/dotnet/IntroCsharpBackend/bin/Debug/net8.0/IntroCsharpBackend.deps.json
+/home/jomaol/Documents/dotnet/IntroCsharpBackend/bin/Debug/net8.0/IntroCsharpBackend.runtimeconfig.json
+/home/jomaol/Documents/dotnet/IntroCsharpBackend/bin/Debug/net8.0/IntroCsharpBackend.dll
+/home/jomaol/Documents/dotnet/IntroCsharpBackend/bin/Debug/net8.0/IntroCsharpBackend.pdb
+/home/jomaol/Documents/dotnet/IntroCsharpBackend/obj/Debug/net8.0/IntroCsharpBackend.GeneratedMSBuildEditorConfig.editorconfig
+/home/jomaol/Documents/dotnet/IntroCsharpBackend/obj/Debug/net8.0/IntroCsharpBackend.AssemblyInfoInputs.cache
+/home/jomaol/Documents/dotnet/IntroCsharpBackend/obj/Debug/net8.0/IntroCsharpBackend.AssemblyInfo.cs
+/home/jomaol/Documents/dotnet/IntroCsharpBackend/obj/Debug/net8.0/IntroCsharpBackend.csproj.CoreCompileInputs.cache
+/home/jomaol/Documents/dotnet/IntroCsharpBackend/obj/Debug/net8.0/IntroCsharpBackend.dll
+/home/jomaol/Documents/dotnet/IntroCsharpBackend/obj/Debug/net8.0/refint/IntroCsharpBackend.dll
+/home/jomaol/Documents/dotnet/IntroCsharpBackend/obj/Debug/net8.0/IntroCsharpBackend.pdb
+/home/jomaol/Documents/dotnet/IntroCsharpBackend/obj/Debug/net8.0/IntroCsharpBackend.genruntimeconfig.cache
+/home/jomaol/Documents/dotnet/IntroCsharpBackend/obj/Debug/net8.0/ref/IntroCsharpBackend.dll

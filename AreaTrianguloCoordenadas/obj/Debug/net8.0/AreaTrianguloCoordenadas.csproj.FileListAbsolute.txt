@@ -1,0 +1,14 @@
+/home/jomaol/Documents/dotnet/AreaTrianguloCoordenadas/bin/Debug/net8.0/AreaTrianguloCoordenadas
+/home/jomaol/Documents/dotnet/AreaTrianguloCoordenadas/bin/Debug/net8.0/AreaTrianguloCoordenadas.deps.json
+/home/jomaol/Documents/dotnet/AreaTrianguloCoordenadas/bin/Debug/net8.0/AreaTrianguloCoordenadas.runtimeconfig.json
+/home/jomaol/Documents/dotnet/AreaTrianguloCoordenadas/bin/Debug/net8.0/AreaTrianguloCoordenadas.dll
+/home/jomaol/Documents/dotnet/AreaTrianguloCoordenadas/bin/Debug/net8.0/AreaTrianguloCoordenadas.pdb
+/home/jomaol/Documents/dotnet/AreaTrianguloCoordenadas/obj/Debug/net8.0/AreaTrianguloCoordenadas.GeneratedMSBuildEditorConfig.editorconfig
+/home/jomaol/Documents/dotnet/AreaTrianguloCoordenadas/obj/Debug/net8.0/AreaTrianguloCoordenadas.AssemblyInfoInputs.cache
+/home/jomaol/Documents/dotnet/AreaTrianguloCoordenadas/obj/Debug/net8.0/AreaTrianguloCoordenadas.AssemblyInfo.cs
+/home/jomaol/Documents/dotnet/AreaTrianguloCoordenadas/obj/Debug/net8.0/AreaTrianguloCoordenadas.csproj.CoreCompileInputs.cache
+/home/jomaol/Documents/dotnet/AreaTrianguloCoordenadas/obj/Debug/net8.0/AreaTrianguloCoordenadas.dll
+/home/jomaol/Documents/dotnet/AreaTrianguloCoordenadas/obj/Debug/net8.0/refint/AreaTrianguloCoordenadas.dll
+/home/jomaol/Documents/dotnet/AreaTrianguloCoordenadas/obj/Debug/net8.0/AreaTrianguloCoordenadas.pdb
+/home/jomaol/Documents/dotnet/AreaTrianguloCoordenadas/obj/Debug/net8.0/AreaTrianguloCoordenadas.genruntimeconfig.cache
+/home/jomaol/Documents/dotnet/AreaTrianguloCoordenadas/obj/Debug/net8.0/ref/AreaTrianguloCoordenadas.dll

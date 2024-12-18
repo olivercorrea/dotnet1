@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE                               COMMAND                  CREATED         STATUS         PORTS     NAMES
+527df377f2b2   dotnet-area-triangulo-coordenadas   "dotnet Docker.Docke…"   6 minutes ago   Up 6 minutes             clever_brown

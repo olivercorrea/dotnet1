@@ -1,0 +1,14 @@
+/home/jomaol/Documents/dotnet/Student1/bin/Debug/net8.0/Student1
+/home/jomaol/Documents/dotnet/Student1/bin/Debug/net8.0/Student1.deps.json
+/home/jomaol/Documents/dotnet/Student1/bin/Debug/net8.0/Student1.runtimeconfig.json
+/home/jomaol/Documents/dotnet/Student1/bin/Debug/net8.0/Student1.dll
+/home/jomaol/Documents/dotnet/Student1/bin/Debug/net8.0/Student1.pdb
+/home/jomaol/Documents/dotnet/Student1/obj/Debug/net8.0/Student1.GeneratedMSBuildEditorConfig.editorconfig
+/home/jomaol/Documents/dotnet/Student1/obj/Debug/net8.0/Student1.AssemblyInfoInputs.cache
+/home/jomaol/Documents/dotnet/Student1/obj/Debug/net8.0/Student1.AssemblyInfo.cs
+/home/jomaol/Documents/dotnet/Student1/obj/Debug/net8.0/Student1.csproj.CoreCompileInputs.cache
+/home/jomaol/Documents/dotnet/Student1/obj/Debug/net8.0/Student1.dll
+/home/jomaol/Documents/dotnet/Student1/obj/Debug/net8.0/refint/Student1.dll
+/home/jomaol/Documents/dotnet/Student1/obj/Debug/net8.0/Student1.pdb
+/home/jomaol/Documents/dotnet/Student1/obj/Debug/net8.0/Student1.genruntimeconfig.cache
+/home/jomaol/Documents/dotnet/Student1/obj/Debug/net8.0/ref/Student1.dll
